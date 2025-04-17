@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. ",
+      "question": "1. Mycobacterium tuberculosis cannot be easily decolorized with acid alcohol due to",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Mycolic acid",
+        "b": "Peptidoglycan",
+        "c": "Lipid",
+        "d": "All the above"
       },
  
       "correctAnswer": "a",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. ",
+      "question": "2. The gelatinous outer layer of the bacterial cells",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Cell wall",
+        "b": "Capsule",
+        "c": "Flagella",
+        "d": "Cell membrane"
       },
       
       "correctAnswer": "b",
@@ -31,12 +31,12 @@
 
     
     {
-      "question": "3. ",
+      "question": "3. Example of an endospore producing organism",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Streptococcus pneumoniae",
+        "b": "Bacillus megaterium",
+        "c": "Streptococcus agalactiae",
+        "d": "Streptococcus pyogenes"
       },
      
       "correctAnswer": "a",
