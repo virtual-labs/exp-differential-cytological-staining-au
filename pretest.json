@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Primary stain used for staining the spores of Bacillus",
+      "answers": {
+        "a": "Methylene blue",
+        "b": "Safranin",
+        "c": "Crystal Violet",
+        "d": "Malachite green"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2.Dorner method is used to visualize which of the following structures of bacteria?",
+      "answers": {
+        "a": "Capsule",
+        "b": "Endospores",
+        "c": "Metachromatic granules",
+        "d": "Flagella"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. The characteristic feature of Cornybacterium diphtheria is",
+      "answers": {
+        "a": "Chinese characters or palisades",
+        "b": "Drum like arrangement",
+        "c": "Cluster like arrangement",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
