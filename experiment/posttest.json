@@ -1,39 +1,47 @@
+
 {
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Mycobacterium tuberculosis cannot be easily decolorized with acid alcohol due to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mycolic acid",
+        "b": "Peptidoglycan",
+        "c": "Lipid",
+        "d": "All the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+ 
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+    },   
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The gelatinous outer layer of the bacterial cells",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cell wall",
+        "b": "Capsule",
+        "c": "Flagella",
+        "d": "Cell membrane"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Example of an endospore producing organism",
+      "answers": {
+        "a": "Streptococcus pneumoniae",
+        "b": "Bacillus megaterium",
+        "c": "Streptococcus agalactiae",
+        "d": "Streptococcus pyogenes"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
+	 
